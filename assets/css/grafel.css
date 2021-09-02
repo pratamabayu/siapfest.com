@@ -5,17 +5,17 @@ https://pratamabayu.com
 
 @import"https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap";
 :root {
-	--primary-color: rgb(174, 42, 41);
+	--primary-color: hsl(0, 62%, 42%);
 	--secondary-color: rgb(223, 158, 55);
 	--accent-color: rgb(223, 158, 55);
-	--primary-10-color: white;
-	--primary-20-color: #e1867e;
-	--primary-30-color: #dc7269;
-	--primary-40-color: #b5352a;
-	--primary-60-color: #0f0504;
-	--primary-70-color: black;
-	--primary-80-color: black;
-	--primary-90-color: black;
+	--primary-10-color: hsl(0, 62%, 96%);
+	--primary-20-color: hsl(0, 62%, 86%);
+	--primary-30-color: hsl(0, 62%, 76%);
+	--primary-40-color: hsl(0, 62%, 56%);
+	--primary-60-color: hsl(0, 62%, 32%);
+	--primary-70-color: hsl(0, 62%, 22%);
+	--primary-80-color: hsl(0, 62%, 12%);
+	--primary-90-color: hsl(0, 62%, 2%);
 	--background-color: var(--primary-10-color);
 	--text-color: var(--primary-90-color);
 	--text-invert-color: var(--background-color);
